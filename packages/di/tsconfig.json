@@ -1,0 +1,5 @@
+{
+  "extends": "tsconfig/domain-library.json",
+  "include": ["src"],
+  "exclude": ["node_modules"],
+}
